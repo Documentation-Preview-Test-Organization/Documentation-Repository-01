@@ -1,4 +1,4 @@
-update-2026
+update
 * xref:intro.adoc[]
 * xref:buckets.adoc[]
 * xref:hash_equality.adoc[]
